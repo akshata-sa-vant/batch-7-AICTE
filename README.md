@@ -51,7 +51,7 @@ AI-Study-Buddy/
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/ai-study-buddy.git
+git clone https://github.com/akshata-sa-vant/batch-7-AICTE.git
 cd ai-study-buddy
 ```
 
@@ -152,3 +152,4 @@ This project is licensed under the MIT License.
 ## ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub!
+
